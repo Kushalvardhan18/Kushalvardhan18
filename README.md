@@ -1,5 +1,5 @@
-### Hi there 👋
 <h1>Kushal Vardhan</h1>
+<p>Hey Visitor, I am a Software Developer by profession. </p>
 <!--
 **Kushalvardhan18/Kushalvardhan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
