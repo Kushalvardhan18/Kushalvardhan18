@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a curiosi
 - 💼 **Profession**: Tutor with a background in software development and Java expertise.
 - 🎓 **Education**: Graduate.
 - 🏆 **Achievements**: 150-day streak on LeetCode, Apna College course attendee.
-- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/kushalvardhan1804/) | [Email] (kushalvardhan1804@hotmail.com)
+- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/kushalvardhan1804/) | [Email](kushalvardhan1804@hotmail.com)
 
 ---
 
