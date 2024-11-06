@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Kushal Vardhan! 👋</h1>
+<h2 align="center">Welcome to my GitHub profile! I'm a passionate software developer with a curiosity for technology and a love for solving challenges.</h2>
 
 <p align="center">
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/github/followers/your-username?label=Follow%20me&style=social"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Contact%20me-007ACC?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="https://github.com/Kushalvardhan18"><img src="https://img.shields.io/github/followers/your-username?label=Follow%20me&style=social"></a>
+  <a href="mailto:kushalvardhan1804@hotmail.com"><img src="https://img.shields.io/badge/-Contact%20me-007ACC?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -50,7 +51,7 @@ Here are a few highlights of what I've been working on recently:
 - **Algorithm Solutions**: Implementing cycle detection and other Java-based algorithms.
 - **REST API Development**: Learning to set up APIs with Express.js for robust backend functionality.
 
-Check out my [repositories](https://github.com/your-username?tab=repositories) to see all my projects!
+Check out my [repositories](https://github.com/Kushalvardhan18?tab=repositories) to see all my projects!
 
 ---
 
@@ -58,7 +59,7 @@ Check out my [repositories](https://github.com/your-username?tab=repositories) t
 
 Beyond coding, here are a few things that I’m passionate about:
 
-- **Motorcycles**: Currently considering buying a sports bike or a Bullet motorcycle in India.
+- **Cars and MotorCycles**: Currently considering buying a sports bike,car or a Bullet motorcycle in India.
 - **Tech Reads**: Keeping up with the latest in tech and software.
 - **Challenges**: I love solving real-life and algorithmic puzzles alike!
 
@@ -68,9 +69,9 @@ Beyond coding, here are a few things that I’m passionate about:
 
 I’m always open to connecting with fellow developers and tech enthusiasts! Feel free to reach out via:
 
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [GitHub](https://github.com/your-username)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/kushalvardhan1804/)
+- [GitHub](https://github.com/Kushalvardhan18)
+- [Email](kushalvardhan1804@hotmail.com)
 
 ---
 
