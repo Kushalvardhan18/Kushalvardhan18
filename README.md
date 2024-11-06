@@ -2,7 +2,7 @@
 <h2 align="center">Welcome to my GitHub profile! I'm a passionate software developer with a curiosity for technology and a love for solving challenges.</h2>
 
 <p align="center">
-  <a href="https://github.com/Kushalvardhan18"><img src="https://img.shields.io/github/followers/your-username?label=Follow%20me&style=social"></a>
+  <a href="https://github.com/Kushalvardhan18"><img src="https://img.shields.io/github/followers/Kushalvardhan18?label=Follow%20me&style=social"></a>
   <a href="mailto:kushalvardhan1804@hotmail.com"><img src="https://img.shields.io/badge/-Contact%20me-007ACC?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 
