@@ -82,8 +82,8 @@ I’m 6 feet 1 inch tall, and I approach challenges with the same enthusiasm as 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kushalvardhan18&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushalvardhan18&theme=tokyonight" alt="GitHub Streak" width="50%">
 </p>
 
 <p align="center">
