@@ -87,5 +87,5 @@ I’m 6 feet 1 inch tall, and I approach challenges with the same enthusiasm as 
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kushalvardhan18" alt="visitor badge"/>
 </p>
