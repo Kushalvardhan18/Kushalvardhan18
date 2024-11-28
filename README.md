@@ -72,7 +72,7 @@ I’m always open to connecting with fellow developers and tech enthusiasts! Fee
 - [LinkedIn](https://www.linkedin.com/in/kushalvardhan1804/)
 - [GitHub](https://github.com/Kushalvardhan18)
 - [Email](kushalvardhan1804@hotmail.com)
-- [Website](https://javascript-portfolio-website-git-main-kushalvardhan18s-projects.vercel.app/)
+- [Website](https://javascript-portfolio-website-git-main-kushalvardhan18s-projects.vercel.app/index.html)
 
 ---
 
