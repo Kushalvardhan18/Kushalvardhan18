@@ -37,7 +37,6 @@ Hello! I'm **Kushal Vardhan**, a passionate developer and tutor based in India. 
 
 ## 🌱 Currently Learning
 
-- **Backend Development**: Building REST APIs with Node.js and Express.js
 - **Advanced Algorithms**: Cycle detection, water trapping algorithms, palindrome checking, and tax calculators
 - **LeetCode Journey**: 100-day streak achievement with a focus on algorithmic challenges
 
