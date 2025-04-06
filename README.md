@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kushal Vardhan! 👋</h1>
-<h2 align="center">Welcome to my GitHub profile! I'm a passionate software developer with a curiosity for technology and a love for solving challenges.</h2>
+<h2 align="center">Welcome to my GitHub! I'm a passionate developer, tech enthusiast, and a relentless problem solver 🚀</h2>
 
 <p align="center">
   <a href="https://github.com/Kushalvardhan18"><img src="https://img.shields.io/github/followers/Kushalvardhan18?label=Follow%20me&style=social"></a>
@@ -10,74 +10,79 @@
 
 ## 🙋‍♂️ About Me 
 
-Hello! I'm **Kushal Vardhan**, a passionate developer and tutor based in India. With a strong background in **Java** and a knack for solving challenging problems, I’m always up for exploring new technologies and pushing my boundaries!
+I'm **Kushal Vardhan**, a developer based in India with a passion for web technologies, problem-solving, and clean code. I specialize in building front-end and back-end applications, and I’m continuously exploring new stacks to stay on the cutting edge.
 
-- 🎓 **Education**: I'm a graduate with a focus on software development and programming.
-- 💼 **Experience**: Currently working as a tutor with a **salary of 3 lakhs**.
-- 🔍 **Currently exploring**: Advanced Java algorithms, Express.js, and backend development.
-- 🌐 **Goal**: To dive deeper into software engineering, hone my skills, and collaborate with a dynamic team!
+- 🎓 **Education**: Graduate with a focus on software development.
+- 💼 **Current Role**: Tutor (3 LPA), working on real-world problem solving and mentoring.
+- 🧠 **Exploring**: React, Tailwind, Express.js & advanced DSA concepts.
+- 🎯 **Goal**: To become a full-stack developer and join an innovative tech team!
 
 ---
 
 ## 🛠️ Tech Stack 
 
-### Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+### 👨‍💻 Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-### Tools & Platforms
+### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 ---
 
 ## 🌱 Currently Learning
 
-- **Advanced Algorithms**: Cycle detection, water trapping algorithms, palindrome checking, and tax calculators
-- **LeetCode Journey**: 100-day streak achievement with a focus on algorithmic challenges
+- DOM Manipulation using JavaScript
+- Full-stack development with React + Express
+- Advanced DSA (Recursion, Trees, Graphs, Dynamic Programming)
 
 ---
 
 ## 🚀 Projects
 
-Here are a few highlights of what I've been working on recently:
+Some cool things I've been building lately:
 
-- **Java String Manipulations**: Vowel counters, maximum words in sentences, palindrome checks, and more.
-- **Algorithm Solutions**: Implementing cycle detection and other Java-based algorithms.
-- **REST API Development**: Learning to set up APIs with Express.js for robust backend functionality.
+- **DSA Challenges**: 100-day coding streak on LeetCode solving real-world algorithmic problems.
+- **React UI Components**: Reusable and responsive UIs using Tailwind + React.
+- **Java Utilities**: Java-based string manipulation and core algorithm solutions.
+- **RESTful APIs**: Backend APIs using Express.js and Node.js.
 
-Check out my [repositories](https://github.com/Kushalvardhan18?tab=repositories) to see all my projects!
+🔍 Explore more on my [repositories page](https://github.com/Kushalvardhan18?tab=repositories)
 
 ---
 
 ## 🏍️ Interests 
 
-Beyond coding, here are a few things that I’m passionate about:
+Besides coding, I enjoy:
 
-- **Cars and MotorCycles**: Currently considering buying a sports bike,car or a Bullet motorcycle in India.
-- **Tech Reads**: Keeping up with the latest in tech and software.
-- **Challenges**: I love solving real-life and algorithmic puzzles alike!
+- 🚗 **Cars & Bikes**: Planning to buy a Bullet, a sports bike, or a cool car soon.
+- 📘 **Tech Reads**: Exploring dev blogs, new tools, and open-source projects.
+- 🧩 **Solving puzzles**: Whether it's coding or real life — I love a good challenge.
 
 ---
 
 ## 📫 Connect with Me 
 
-I’m always open to connecting with fellow developers and tech enthusiasts! Feel free to reach out via:
+I’d love to connect and collaborate with fellow developers!
 
 - [LinkedIn](https://www.linkedin.com/in/kushalvardhan1804/)
 - [GitHub](https://github.com/Kushalvardhan18)
-- [Email](kushalvardhan1804@hotmail.com)
-- [Website](https://javascript-portfolio-website-git-main-kushalvardhan18s-projects.vercel.app/index.html)
+- [Email](mailto:kushalvardhan1804@hotmail.com)
+- [Portfolio](https://javascript-portfolio-website-git-main-kushalvardhan18s-projects.vercel.app/index.html)
 
 ---
 
-## Fun Fact 💡
+## 🧠 Fun Fact
 
-I’m 6 feet 1 inch tall, and I approach challenges with the same enthusiasm as I approach new opportunities for learning and growth!
+I’m 6'1" tall — and I bring that same tall energy into my coding journey! 😄
 
 ---
 
@@ -86,7 +91,6 @@ I’m 6 feet 1 inch tall, and I approach challenges with the same enthusiasm as 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushalvardhan18&theme=tokyonight" alt="GitHub Streak" width="48%">
 </p>
 
-
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kushalvardhan18.Kushalvardhan18" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kushalvardhan18.Kushalvardhan18" alt="Visitor Badge"/>
 </p>
