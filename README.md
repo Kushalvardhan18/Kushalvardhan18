@@ -43,7 +43,7 @@ I'm **Kushal Vardhan**, a developer based in India with a passion for web techno
 
 ## Languages Used
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kushalvardhan18&show_icons=true&locale=en&layout=compact" alt="tauqueeralam42" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kushalvardhan18&show_icons=true&locale=en&layout=compact" alt="Kushalvardhan18" /></p>
 
 ---
 
