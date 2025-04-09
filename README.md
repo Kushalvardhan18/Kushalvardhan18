@@ -50,7 +50,7 @@ I'm **Kushal Vardhan**, a developer based in India with a passion for web techno
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kushalvardhan18&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<br><br><br><br>
+
 
 ---
 
