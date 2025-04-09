@@ -40,6 +40,11 @@ I'm **Kushal Vardhan**, a developer based in India with a passion for web techno
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
+## Languages Used
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tauqueeralam42&show_icons=true&locale=en&layout=compact" alt="tauqueeralam42" /></p>
+
+---
 
 ## 🌱 Currently Learning
 
