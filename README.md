@@ -42,7 +42,7 @@ I'm **Kushal Vardhan**, a developer based in India with a passion for web techno
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
----
+
 
 ## 📊 Languages Used
 
