@@ -44,10 +44,10 @@ I'm **Kushal Vardhan**, a developer based in India with a passion for web techno
 
 ## 📊 Languages Used
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kushalvardhan18&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kushalvardhan18&show_icons=true&locale=en&layout=compact" alt="Top Languages width=100%" />
 </p>
 
-
+---
 ## 🌱 Currently Learning
 
 - DOM manipulation using JavaScript  
