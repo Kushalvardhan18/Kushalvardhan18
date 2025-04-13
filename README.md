@@ -86,7 +86,7 @@ I’d love to connect and collaborate with fellow developers!
 - [LinkedIn](https://www.linkedin.com/in/kushalvardhan1804/)
 - [GitHub](https://github.com/Kushalvardhan18)
 - [Email](mailto:kushalvardhan1804@hotmail.com)
-- [My Portfolio Website](https://javascript-portfolio-website-git-main-kushalvardhan18s-projects.vercel.app/index.html)
+- [My Portfolio Website](https://kushalvardhan.vercel.app/)
 
 ---
 
