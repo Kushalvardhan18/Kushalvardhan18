@@ -1,14 +1,19 @@
-<h1 align="center">Hi, I'm Kushal Vardhan! 👋</h1>
-<h3 align="center">Welcome to my GitHub! I'm a passionate developer, tech enthusiast, and relentless problem solver 🚀</h3>
+<h1 align="center">Hello, I'm Kushal Vardhan</h1>
+
+<h3 align="center">
+Full Stack Developer • DSA Learner • Building with AI
+</h3>
 
 <p align="center">
-  <a href="https://github.com/Kushalvardhan18">
-    <img src="https://img.shields.io/github/followers/Kushalvardhan18?label=Follow%20me&style=social">
-  </a>
-  <a href="mailto:kushalvardhan1804@hotmail.com">
-    <img src="https://img.shields.io/badge/-Contact%20me-007ACC?style=flat-square&logo=Microsoft-Outlook&logoColor=white">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Learner;Backend+Engineer;Always+Learning+New+Things" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kushalvardhan18&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="KushalVardhan" />
+</p>
+
+---
+
+<img align="right" alt="Coding" width="335" src="https://www.dreamstime.com/illustration/computer-doodle-working.html" >
 
 ---
 
@@ -17,9 +22,9 @@
 I'm **Kushal Vardhan**, a developer based in India with a passion for web technologies, problem-solving, and clean code. I specialize in building both front-end and back-end applications and I’m continuously exploring new stacks to stay on the cutting edge.
 
 - 🎓 **Education**: Graduated with a focus on software development.
-- 💼 **Current Role**: Tutor (3 LPA), working on real-world problem solving and mentoring.
-- 🧠 **Exploring**: React, Tailwind, Express.js & advanced DSA concepts.
-- 🎯 **Goal**: To become a full-stack developer and join an innovative tech team!
+- 💼 **Current Role**: Looking for the Opportunities.
+- 🧠 **Exploring**: Gen AI & advanced DSA concepts.
+- 🎯 **Goal**: To become the Youngest PM of India.
 
 ---
 
@@ -109,3 +114,51 @@ I’d love to connect and collaborate with fellow developers!
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kushalvardhan18.Kushalvardhan18" alt="Visitor Badge"/>
 </p>
+
+
+
+---
+
+
+<div align="left">
+
+# 🎯 Current Goals
+
+- ✅ Become a better Software Developer
+- ✅ Master DevOps & Cloud  
+- ✅ Contribute to Open Source 
+- ✅ Build scalable full-stack projects  
+- ✅ Learn AI integrations in web apps  
+
+</div>
+
+---
+
+
+# 📊 GitHub Stats
+
+
+  
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushalvardhan18&theme=tokyonight">
+  
+</div> 
+
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kushalvardhan18&theme=tokyonight">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kushalvardhan18&theme=tokyonight">
+
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sharmadipalidev&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
