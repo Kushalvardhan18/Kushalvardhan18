@@ -15,6 +15,7 @@ Full Stack Developer • DSA Learner • Building with AI
 <img align="right" alt="Coding" width="335" src="https://imgs.search.brave.com/KbVa_yts9r2r0MCbIWYitCg5TP0sUlxGMY9PqI73_BA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9wZXJz/b24td29ya2luZy1j/b21wdXRlci1kb29k/bGUtZGlnaXRhbC13/b3JrLW9ubGluZS10/YXNrLXN0b2NrLXBo/b3RvLWdlbmVyYXRp/dmUtYWktaWxsdXN0/cmF0aW9uLXJlcHJl/c2VudGluZy10YXNr/cy0zNjkxMTEwMTYu/anBn" >
 
 ---
+---
 
 ## 🙋‍♂️ About Me
 
