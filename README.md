@@ -21,7 +21,6 @@ I'm **Kushal Vardhan**, a developer based in India with a passion for web techno
 - 🎓 **Education**: Graduated with a focus on software development.
 - 💼 **Current Role**: Looking for the Opportunities.
 - 🧠 **Exploring**: Gen AI & advanced DSA concepts.
-- 🎯 **Goal**: To become the Youngest PM of India.
 
 ---
 
